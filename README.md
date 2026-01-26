@@ -27,11 +27,6 @@
 
 ---
 
-## 🌐 Connect with Me
-- Portfolio: [yourwebsite.com](https://yourwebsite.com)  
-- LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)  
-- Twitter: [twitter.com/yourhandle](https://twitter.com/yourhandle)  
 
----
 
 ✨ *“Code securely, design responsively, and market creatively.”*
