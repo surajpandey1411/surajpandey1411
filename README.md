@@ -1,4 +1,29 @@
-# Hi, I'm Suraj 👋
+# 👨‍🏫 Hi, I'm Suraj 👋
+  
+
+### IT Teacher | Web Development Mentor  
+
+I believe **learning should be simple, practical, and confidence-building**.  
+I help students move from *zero to real projects*.
+
+---
+
+## 👨‍💻 What I Teach
+- Web Development for Beginners  
+- JavaScript (Step-by-Step)  
+- Digital Marketing Basics  
+
+---
+
+## 🧪 Projects
+- Student practice projects  
+- Mini web applications  
+- Marketing demo campaigns  
+
+---
+
+📬 Let’s connect and learn together!
+
 
 🌱 Actively learning **Flask, Django, Bootstrap**  
 🔐 Exploring **web security fundamentals** and secure coding practices  
