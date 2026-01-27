@@ -10,7 +10,14 @@ I help students move from *zero to real projects*.
 
 ## 👨‍💻 What I Teach
 - Web Development for Beginners  
-- JavaScript (Step-by-Step)  
+- JavaScript (Step-by-Step)
+- Java
+- C++
+- Node.js
+- React
+- Angular
+- Python
+- .Net 
 - Digital Marketing Basics  
 
 ---
