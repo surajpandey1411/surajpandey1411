@@ -1,13 +1,14 @@
-# Hi there 👋, I'm Suraj
+# Hi, I'm Suraj 👋
 
-💻 Aspiring web developer exploring **Flask, Django, and Bootstrap**  
-🔐 Passionate about **secure coding practices** and learning web security fundamentals  
-🌱 Currently mastering **RESTful APIs** and experimenting with **CMS platforms**  
-📈 Curious about **digital marketing, affiliate networks, and influencer strategies**  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&color=FF5733&center=true&vCenter=true&width=600&lines=Hi+I'm+Suraj+👋;Web+Developer+🌐;Security+Enthusiast+🔐;Digital+Marketing+Explorer+📈)](https://git.io/typing-svg)
+
+![Profile views](https://komarev.com/ghpvc/?username=surajpandey1411&color=blue&style=flat-square)
+
+<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="300"/>
 
 ---
 
-## 🚀 Skills & Tools
+## 🚀 Tech Stack
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
@@ -17,16 +18,37 @@
 ---
 
 ## 📊 GitHub Stats
-![Suraj's GitHub stats](https://github-readme-stats.vercel.app/api?username=surajpandey1411&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=surajpandey1411&layout=compact&theme=radical)  
+![Suraj's GitHub stats](https://github-readme-stats.vercel.app/api?username=surajpandey1411&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=surajpandey1411&layout=compact&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=surajpandey1411&theme=radical)
 
 ---
 
-## 🔥 Activity Graph
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=surajpandey1411&theme=radical)
+## 🌱 Currently Learning
+- RESTful APIs with Flask  
+- CMS platforms (WordPress, Drupal)  
+- Secure coding practices  
 
 ---
 
+## 📌 Featured Projects
+- 🔐 **Secure Flask API** – practicing authentication & security fundamentals  
+- 🎨 **Bootstrap Portfolio Site** – responsive design experiments  
+- 📝 **GitHub Profile Customization** – showcasing my journey & skills  
 
+---
 
-✨ *“Code securely, design responsively, and market creatively.”*
+## 🐍 Contribution Graph Snake
+![GitHub Snake Light](https://github.com/surajpandey1411/surajpandey1411/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+![GitHub Snake Dark](https://github.com/surajpandey1411/surajpandey1411/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+
+---
+
+## 📫 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](your-link)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](your-link)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white)](your-link)
+
+---
+
+> ⚡ *“Turning coffee into secure code ☕🔐”*
