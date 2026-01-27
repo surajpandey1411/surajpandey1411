@@ -45,6 +45,7 @@
 ---
 
 ## 🐍 Contribution Graph Snake
+![Snake animation](https://github.com/surajpandey1411/surajpandey1411/blob/output/github-contribution-grid-snake.svg)
 ![GitHub Snake Light](https://github.com/surajpandey1411/surajpandey1411/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 ![GitHub Snake Dark](https://github.com/surajpandey1411/surajpandey1411/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 
