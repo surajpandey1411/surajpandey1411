@@ -104,7 +104,7 @@ I help students move from *zero to real projects*.
 ## 📫 Get in Touch
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/suraj-pandey" target="_blank">
+  <a href="https://www.linkedin.com/in/suraj-pandey-4a02b03a9" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" />
   </a>&nbsp;&nbsp;&nbsp;
 
