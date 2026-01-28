@@ -101,6 +101,26 @@ I help students move from *zero to real projects*.
 
 ---
 
+## 📫 Get in Touch
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/suraj pandey" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" />
+  </a>&nbsp;&nbsp;&nbsp;
+
+  <a href="https://x.com/yourusername" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" width="40" />
+  </a>&nbsp;&nbsp;&nbsp;
+
+  <a href="https://www.youtube.com/@yourchannel" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/youtube/youtube-original.svg" width="40" />
+  </a>&nbsp;&nbsp;&nbsp;
+
+  <a href="https://www.upwork.com/freelancers/~yourid" target="_blank">
+    <img src="https://img.icons8.com/color/48/upwork.png" width="40" />
+  </a>
+</p>
+
 
 ## 🌟 Let’s Build Something Great
 
