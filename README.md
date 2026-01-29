@@ -95,32 +95,11 @@ I help students move from *zero to real projects*.
 ---
 ## 📫 Get in Touch
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/suraj-pandey-4a02b03a9)
-[![X](https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white)](https://x.com/yourhandle)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white)](https://youtube.com/@yourchannel)
+[![X](https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white)](https://x.com/@surajpdy14)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white)](https://youtube.com/@LearnITwithMeAI)
 [![Upwork](https://img.shields.io/badge/Upwork-6FDA44?style=flat&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~yourid)
 
 ---
-
-## 📫 Get in Touch
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/suraj-pandey-4a02b03a9" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" />
-  </a>&nbsp;&nbsp;&nbsp;
-
-  <a href="https://x.com/yourusername" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" width="40" />
-  </a>&nbsp;&nbsp;&nbsp;
-
-  <a href="https://www.youtube.com/@yourchannel" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/youtube/youtube-original.svg" width="40" />
-  </a>&nbsp;&nbsp;&nbsp;
-
-  <a href="https://www.upwork.com/freelancers/~yourid" target="_blank">
-    <img src="https://img.icons8.com/color/48/upwork.png" width="40" />
-  </a>
-</p>
-
 
 ## 🌟 Let’s Build Something Great
 
